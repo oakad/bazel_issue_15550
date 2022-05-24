@@ -1,0 +1,5 @@
+
+cc_binary(
+	name = "t1",
+	srcs = ["t1.c"],
+)
